@@ -2,4 +2,5 @@
 
 
 ![Codewars](https://www.codewars.com/users/Afpia/badges/large)
-![Static Badge](https://img.shields.io/badge/:badgeContent?logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3ETailwind%20CSS%3C%2Ftitle%3E%3Cpath%20d%3D%22M12.001%2C4.8c-3.2%2C0-5.2%2C1.6-6%2C4.8c1.2-1.6%2C2.6-2.2%2C4.2-1.8c0.913%2C0.228%2C1.565%2C0.89%2C2.288%2C1.624%20C13.666%2C10.618%2C15.027%2C12%2C18.001%2C12c3.2%2C0%2C5.2-1.6%2C6-4.8c-1.2%2C1.6-2.6%2C2.2-4.2%2C1.8c-0.913-0.228-1.565-0.89-2.288-1.624%20C16.337%2C6.182%2C14.976%2C4.8%2C12.001%2C4.8z%20M6.001%2C12c-3.2%2C0-5.2%2C1.6-6%2C4.8c1.2-1.6%2C2.6-2.2%2C4.2-1.8c0.913%2C0.228%2C1.565%2C0.89%2C2.288%2C1.624%20c1.177%2C1.194%2C2.538%2C2.576%2C5.512%2C2.576c3.2%2C0%2C5.2-1.6%2C6-4.8c-1.2%2C1.6-2.6%2C2.2-4.2%2C1.8c-0.913-0.228-1.565-0.89-2.288-1.624%20C10.337%2C13.382%2C8.976%2C12%2C6.001%2C12z%22%2F%3E%3C%2Fsvg%3E&logoColor=white&label=Tailwind&color=black)
+![Static Badge](https://img.shields.io/badge/Tailwind-white?style=flat&logo=Tailwind%20CSS&logoColor=white&color=black)
+
