@@ -12,4 +12,4 @@
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
 
-![HI](https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=darkhttps://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark)
+![HI](https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark)
