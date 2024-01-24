@@ -13,8 +13,8 @@
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
 
 ![HI](https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark)
-[![Edit README intro.gif (forked)]([https://codesandbox.io/static/img/play-codesandbox.svg](https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark&view=preview))]
 
+[![Edit README intro.gif (forked)](https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark&view=preview)]()
 
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
     <style>@keyframes c0{4.15%{fill:var(--c1)}4.17%,to{fill:var(--ce)}}@keyframes
