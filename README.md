@@ -4,7 +4,7 @@
 ![Codewars](https://www.codewars.com/users/Afpia/badges/large)
 ![Static Badge](https://img.shields.io/badge/Tailwind-white?style=flat&logo=Tailwind%20CSS&logoColor=white&color=black)
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afpia&theme=high-contrast)]()
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afpia&custom_title=Afpia%20Graph&theme=high-contrast)]()
 
 <iframe src="https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
