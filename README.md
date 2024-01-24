@@ -1,8 +1,8 @@
 # Hi 👋, I’m Nikita
 
 
-![Codewars](https://www.codewars.com/users/Afpia/badges/large)()
-![Static Badge](https://img.shields.io/badge/Tailwind-white?style=flat&logo=Tailwind%20CSS&logoColor=white&color=black)()
+[![Codewars](https://www.codewars.com/users/Afpia/badges/large)]()
+[![Static Badge](https://img.shields.io/badge/Tailwind-white?style=flat&logo=Tailwind%20CSS&logoColor=white&color=black)]()
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afpia&custom_title=Afpia%20Graph&theme=high-contrast)]()
 
