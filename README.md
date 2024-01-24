@@ -13,3 +13,4 @@
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
 
 ![HI](https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark)
+[![Edit README intro.gif (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark)
