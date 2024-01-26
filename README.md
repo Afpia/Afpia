@@ -1,10 +1,9 @@
-[![Codewars](https://www.codewars.com/users/Afpia/badges/large)]()
-
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afpia&custom_title=Afpia%20Graph&theme=high-contrast)]()
+
+[![Codewars](https://www.codewars.com/users/Afpia/badges/large)]()
 
 [![What](https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark&view=preview)]()
 
-[![Edit README intro.gif (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/readme-intro-gif-forked-ncsjsg?file=%2Fsrc%2Fmain.js)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)]()
 [![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)]()
