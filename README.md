@@ -4,6 +4,9 @@
 
 [![What](https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark&view=preview)]()
 
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)]()
 [![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)]()
