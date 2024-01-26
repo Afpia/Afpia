@@ -1,7 +1,6 @@
 
 
 [![Codewars](https://www.codewars.com/users/Afpia/badges/large)]()
-[![Static Badge](https://img.shields.io/badge/Tailwind-white?style=flat&logo=Tailwind%20CSS&logoColor=white&color=black)]()
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afpia&custom_title=Afpia%20Graph&theme=high-contrast)]()
 https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark&view=preview
@@ -14,9 +13,10 @@ https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavi
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=ffc0cd)
 ![button](https://readme-components.vercel.app/api?component=button&text=Button&fill=ffc0cd&textfill=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]()
+[![Python](https://img.shields.io/badge/css3?style=flat-square&logo=CSS)]()
+[![Tailwind](https://img.shields.io/badge/Tailwind-white?style=flat&logo=Tailwind%20CSS&logoColor=white&color=black)]()
 
 
 ```javascript
