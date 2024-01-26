@@ -12,6 +12,13 @@ https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavi
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
    ></iframe>
 
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=ffc0cd)
+![button](https://readme-components.vercel.app/api?component=button&text=Button&fill=ffc0cd&textfill=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+
 ```javascript
 const thai = {
   pronouns: "he" | "his",
