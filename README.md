@@ -3,7 +3,9 @@
 [![Codewars](https://www.codewars.com/users/Afpia/badges/large)]()
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afpia&custom_title=Afpia%20Graph&theme=high-contrast)]()
-https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark&view=preview
+
+[![What](https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark&view=preview)]()
+
 <iframe src="https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavigation=1&theme=dark&view=preview"
      style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
      title="README intro.gif (forked)"
