@@ -15,7 +15,7 @@ https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavi
 ![button](https://readme-components.vercel.app/api?component=button&text=Button&fill=ffc0cd&textfill=white)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]()
-[![Python](https://img.shields.io/badge/css3?style=flat-square&logo=CSS)]()
+[![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)]()
 [![Tailwind](https://img.shields.io/badge/Tailwind-white?style=flat&logo=Tailwind%20CSS&logoColor=white&color=black)]()
 
 
