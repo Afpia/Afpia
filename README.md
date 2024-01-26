@@ -12,10 +12,10 @@ https://codesandbox.io/embed/readme-intro-gif-forked-ncsjsg?fontsize=14&hidenavi
    ></iframe>
 
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)]()
+[![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)]()
 [![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)]()
-[![Tailwind](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&color=black)]()
+[![Tailwind](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=Tailwind)]()
 [![Tailwind](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)]()
 
 
