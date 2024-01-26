@@ -8,7 +8,9 @@
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afpia&custom_title=Afpia%20Graph&theme=high-contrast)]()
 
-[![Codewars](https://www.codewars.com/users/Afpia/badges/large)]()
+<p align="center">
+ [![Codewars](https://www.codewars.com/users/Afpia/badges/large)]()
+</p>
 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)]()
