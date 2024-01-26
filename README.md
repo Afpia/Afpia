@@ -13,12 +13,8 @@
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
    ></iframe>
 
-<iframe src="https://codesandbox.io/embed/ncsjsg?view=preview&module=%2Fsrc%2FApp.vue&hidenavigation=1"
-     style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="README intro.gif (forked)"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
+[![Edit README intro.gif (forked)](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/readme-intro-gif-forked-ncsjsg?file=%2Fsrc%2Fmain.js)
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)]()
 [![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)]()
 [![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)]()
