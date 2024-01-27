@@ -4,7 +4,7 @@
 </p>
 
 ### Codewars:
-<div align="center">[![Codewars](https://www.codewars.com/users/Afpia/badges/large)]() </div>
+[![Codewars](https://www.codewars.com/users/Afpia/badges/large)]()
 
 ### Technology:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)]()
