@@ -6,7 +6,7 @@
 ### Codewars:
 [![Codewars](https://www.codewars.com/users/Afpia/badges/large)]()
 <p align="center">
- <img width="600" src="small.svg" alt="codewars"/>
+ <img width="" src="small.svg" alt="codewars"/>
 </p>
 ### Technology:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)]()
