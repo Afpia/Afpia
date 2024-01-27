@@ -1,10 +1,7 @@
-# Hello
+# <p align="center"> Hello! </p>
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
----
-
-
 ### Codewars:
 [![Codewars](https://www.codewars.com/users/Afpia/badges/large)]()
 ### Technology:
