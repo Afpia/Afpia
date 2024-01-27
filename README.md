@@ -4,7 +4,6 @@
 </p>
 
 ### Codewars:
-[![Codewars](https://www.codewars.com/users/Afpia/badges/large)]()
 <p align="center">
  <img width="400" src="small.svg" alt="codewars"/>
 </p>
