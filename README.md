@@ -1,6 +1,4 @@
 <h3>Hello there 👋</h3>
- <img width="600" src="github-snake.svg" alt="snake"/>
-
 <img src="bird.png"/>
 
 
