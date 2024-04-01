@@ -3,6 +3,8 @@
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
+<img src="bird.png"/>
+
 
 ### Technology:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)]()
