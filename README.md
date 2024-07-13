@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm NIkita Galkin
 
 
-![Alt Text](https://pin.it/3b743c1VZ)
+![Alt Text](https://pin.it/3b743c1VZ.gif)
 
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=895160863422251715" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 
