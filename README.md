@@ -1,8 +1,6 @@
+![Gif](https://i.pinimg.com/originals/92/58/9e/92589e5f88eeb86c19482fc514efdbf8.gif)
+
 # 👋 Hello there! I'm NIkita Galkin
-
-
-
-![Gif](https://www.icegif.com/wp-content/uploads/2023/10/icegif-233.gif)|300
 
 ## ⭐ Stack 
 > Base
