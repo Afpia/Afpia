@@ -1,5 +1,5 @@
 
-![Gif](https://github.com/Afpia/Afpia/blob/main/36adbd4765f5e1f65d7615cf0ae48f65.gif)
+![Gif](https://github.com/Afpia/Afpia/blob/main/space.gif)
 
 # 👋 Hello there! I'm NIkita Galkin
 
