@@ -2,7 +2,7 @@
 
 
 ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdldmx5cXRmN24wbHdrMTc1cXJ3Z2xyYmdqMjh5bXk0bGJmcWw1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpg08oZ3MzkdOWjm8c/giphy.gif)
-[[36adbd4765f5e1f65d7615cf0ae48f65.gif]]
+![[36adbd4765f5e1f65d7615cf0ae48f65.gif]]
 ## ⭐ Stack 
 > Base
 
