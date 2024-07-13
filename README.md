@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm NIkita Galkin
 
 
-## Stack
+## 🔥 Stack
 
 <img src="./yarn-color.svg" width="40px" height="40px"> 
 <span>yarn</span>
