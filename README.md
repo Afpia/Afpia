@@ -4,14 +4,10 @@
 ## ⭐ Stack 
 > Base
 
-| <img src="./yarn-color.svg" width="40px" height="40px"><br><span>yarn</span> |     |
+|<img src="./yarn-color.svg" width="40px" height="40px"><br><span>yarn</span> |<img src="./npm-color.svg" width="40px" height="40px"><br><span>npm</span>|<img src="./javascript-color.svg" width="40px" height="40px"><br><span>JavaScript</span>|
 | --- | --- |
 |     |     |
-<span>yarn</span>
 
-<img src="./yarn-color.svg" width="40px" height="40px"> 
-<img src="./npm-color.svg" width="40px" height="40px"> 
-<p>npm</p>
 <img src="./javascript-color.svg" width="40px" height="40px"> 
 <p>JavaScript</p>
 
