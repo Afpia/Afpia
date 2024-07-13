@@ -3,7 +3,7 @@
 
 ## Stack
 
-<img src="./yarn-color.svg" width="20px" height="20px"> 
+<img src="./yarn-color.svg" width="40px" height="40px"> 
 <p>yarn</p>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)]()
