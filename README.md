@@ -4,7 +4,7 @@
 ## Stack
 
 <img src="./yarn-color.svg" width="40px" height="40px"> 
-<p>yarn</p>
+yarn
 <img src="./npm-color.svg" width="40px" height="40px"> 
 <p>npm</p>
 <img src="./javascript-color.svg" width="40px" height="40px"> 
