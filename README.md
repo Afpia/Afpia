@@ -4,11 +4,10 @@
 ## ⭐ Stack 
 > Base
 
-| <img src="./yarn-color.svg" width="40px" height="40px"> |     |
-<span>yarn</span>
-
+| <img src="./yarn-color.svg" width="40px" height="40px"><br><span>yarn</span> |     |
 | --- | --- |
 |     |     |
+<span>yarn</span>
 
 <img src="./yarn-color.svg" width="40px" height="40px"> 
 <img src="./npm-color.svg" width="40px" height="40px"> 
