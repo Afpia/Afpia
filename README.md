@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm NIkita Galkin
 
-<img src="./36adbd4765f5e1f65d7615cf0ae48f65.gif
-" width="500px" height="400px">
+
+![Alt Text](https://pin.it/3b743c1VZ)
 
 ## ⭐ Stack 
 > Base
