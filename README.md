@@ -1,5 +1,5 @@
-<h3>Hello there 👋</h3>
-<img src="bird.png"/>
+<h1>👋 Hello there! I'm NIkita Galkin</h3>
+
 
 
 ### Technology:
