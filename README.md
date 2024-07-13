@@ -1,10 +1,10 @@
-#👋 Hello there! I'm NIkita Galkin
+# 👋 Hello there! I'm NIkita Galkin
 
 
 ## Stack
 
-<img src="./yarn-color.svg"> 
-### yarn
+<img src="./yarn-color.svg" width="20px" height="20px"> 
+<p>yarn</p>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)]()
 [![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)]()
