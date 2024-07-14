@@ -14,5 +14,7 @@
 | <img src="./prettier-color.svg" width="40px" height="40px"><br><span>Prettier</span> | <img src="./stylelint-color.svg" width="40px" height="40px"><br><span>Stylelint</span> | <img src="./eslint-color.svg" width="40px" height="40px"><br><span>Eslint</span> |
 | --- | --- | --- |
 
+> Frontend
 
-
+| <img src="./react-color.svg" width="40px" height="40px"><br><span>React</span> | <img src="./sass-color.svg" width="40px" height="40px"><br><span>Sass</span> | <img src="./tailwind-color.svg" width="40px" height="40px"><br><span>Tailwind</span> | <img src="./redux-color.svg" width="40px" height="40px"><br><span>Redux</span> | <img src="./bootstrap-color.svg" width="40px" height="40px"><br><span>Bootstrap</span> | <img src="./webpack-color.svg" width="40px" height="40px"><br><span>Webpack</span> |
+| --- | --- | --- | --- | --- | --- |
