@@ -11,7 +11,7 @@
 
 > Сode style control
 
-| <img src="./prettier-color.svg" width="40px" height="40px"><br><span>Prettier</span> | <img src="./styleling-color.svg" width="40px" height="40px"><br><span>Stylelint</span> | <img src="./eslint-color.svg" width="40px" height="40px"><br><span>Eslint</span> |
+| <img src="./prettier-color.svg" width="40px" height="40px"><br><span>Prettier</span> | <img src="./stylelint-color.svg" width="40px" height="40px"><br><span>Stylelint</span> | <img src="./eslint-color.svg" width="40px" height="40px"><br><span>Eslint</span> |
 | --- | --- | --- |
 
 
