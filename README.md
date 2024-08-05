@@ -1,18 +1,3 @@
-<style>
-    .heatMap {
-        width: 70%;
-        text-align: center;
-    }
-    .heatMap th {
-        background: grey;
-        word-wrap: break-word;
-        text-align: center;
-    }
-    .heatMap tr:nth-child(1) { background: red; }
-    .heatMap tr:nth-child(2) { background: orange; }
-    .heatMap tr:nth-child(3) { background: green; }
-</style>
-
 ![Gif](https://github.com/Afpia/Afpia/blob/main/space.gif)
 
 
@@ -36,3 +21,26 @@
 
 | <img src="./react-color.svg" width="40px" height="40px"><br><span>React</span> | <img src="./sass-color.svg" width="40px" height="40px"><br><span>Sass</span> | <img src="./tailwindcss-color.svg" width="40px" height="40px"><br><span>Tailwind</span> | <img src="./redux-color.svg" width="40px" height="40px"><br><span>Redux</span> | <img src="./bootstrap-color.svg" width="40px" height="40px"><br><span>Bootstrap</span> | <img src="./webpack-color.svg" width="40px" height="40px"><br><span>Webpack</span> | <img src="./vite-color.svg" width="40px" height="40px"><br><span>Vite</span> |
 | --- | --- | --- | --- | --- | --- | --- |
+
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 1</th>
+    <th>Last</th>
+  </tr>
+<tr style="background-color:red">
+    <td>First</td>
+    <td>Second</td>
+    <td>Third</td>
+  </tr>
+  <tr style="background-color:blue">
+    <td>First</td>
+    <td>Second</td>
+    <td>Third</td>
+  </tr>
+  <tr style="background-color:green">
+    <td>Another</td>
+    <td>Thing</td>
+    <td>Here</td>
+  </tr>
+</table>
