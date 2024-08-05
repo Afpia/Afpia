@@ -38,7 +38,7 @@
     <td>Second</td>
     <td>Third</td>
   </tr>
-  <tr style="background-color:green">
+  <tr style={background-color:green}>
     <td>Another</td>
     <td>Thing</td>
     <td>Here</td>
