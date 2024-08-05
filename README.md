@@ -8,7 +8,7 @@
 > Base
 
 
-| <div style="background-color: #000000"><img src="./html5-color.svg" width="40px" height="40px"><br><span>HTML</span></div> | <img src="./css3-color.svg" width="40px" height="40px"><br><span>CSS</span> | <img src="./yarn-color.svg" width="40px" height="40px"><br><span>yarn</span> | <img src="./npm-color.svg" width="40px" height="40px"><br><span>npm</span> | <img src="./javascript-color.svg" width="40px" height="40px"><br><span>JavaScript</span> | <img src="./typescript-color.svg" width="40px" height="40px"><br><span>TypeScript</span> | <img src="./git-color.svg" width="40px" height="40px"><br><span>GIT</span> | <img src="./figma.svg" width="40px" height="40px"><br><span>Figma</span> |
+| <div style="background-color: #000000; width: 100; height: 200;"><img src="./html5-color.svg" width="40px" height="40px"><br><span>HTML</span></div> | <img src="./css3-color.svg" width="40px" height="40px"><br><span>CSS</span> | <img src="./yarn-color.svg" width="40px" height="40px"><br><span>yarn</span> | <img src="./npm-color.svg" width="40px" height="40px"><br><span>npm</span> | <img src="./javascript-color.svg" width="40px" height="40px"><br><span>JavaScript</span> | <img src="./typescript-color.svg" width="40px" height="40px"><br><span>TypeScript</span> | <img src="./git-color.svg" width="40px" height="40px"><br><span>GIT</span> | <img src="./figma.svg" width="40px" height="40px"><br><span>Figma</span> |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 
 
@@ -22,25 +22,3 @@
 | <img src="./react-color.svg" width="40px" height="40px"><br><span>React</span> | <img src="./sass-color.svg" width="40px" height="40px"><br><span>Sass</span> | <img src="./tailwindcss-color.svg" width="40px" height="40px"><br><span>Tailwind</span> | <img src="./redux-color.svg" width="40px" height="40px"><br><span>Redux</span> | <img src="./bootstrap-color.svg" width="40px" height="40px"><br><span>Bootstrap</span> | <img src="./webpack-color.svg" width="40px" height="40px"><br><span>Webpack</span> | <img src="./vite-color.svg" width="40px" height="40px"><br><span>Vite</span> |
 | --- | --- | --- | --- | --- | --- | --- |
 
-<table>
-  <tr>
-    <th>Header 1</th>
-    <th>Header 1</th>
-    <th>Last</th>
-  </tr>
-<tr style="background-color:red">
-    <td>First</td>
-    <td>Second</td>
-    <td>Third</td>
-  </tr>
-  <tr style="background-color:blue">
-    <td>First</td>
-    <td>Second</td>
-    <td>Third</td>
-  </tr>
-  <tr style={background-color:green}>
-    <td>Another</td>
-    <td>Thing</td>
-    <td>Here</td>
-  </tr>
-</table>
