@@ -14,7 +14,7 @@
 
 > Code control
 
-|    |    |     | 
+
 | --- | --- | --- |
 | | | |
 | <img src="./image/prettier-color.svg" width="40px" height="40px"><br><span>Prettier</span> | <img src="./image/stylelint-color.svg" width="40px" height="40px"><br><span>Stylelint</span> | <img src="./image/eslint-color.svg" width="40px" height="40px"><br><span>Eslint</span> |
