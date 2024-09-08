@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: React Hook Form | React Query | Firebase | Express.js
 - 🔭 I’m currently working on: TypeScript | React | Effector | Tailwind 
 
-## ⭐ Stack 
+<h2 id="Stack" align="left">⭐ Stack</h2> 
 > Base
 
 | <img src="./image/html5-color.svg" width="40px" height="40px"><br><span>HTML</span> | <img src="./image/css3-color.svg" width="40px" height="40px"><br><span>CSS</span> | <img src="./image/pnpm-color.svg" width="40px" height="40px"><br><span>pnpm</span> | <img src="./image/yarn-color.svg" width="40px" height="40px"><br><span>yarn</span> | <img src="./image/npm-color.svg" width="40px" height="40px"><br><span>npm</span> | <img src="./image/javascript-color.svg" width="40px" height="40px"><br><span>JavaScript</span> | <img src="./image/typescript-color.svg" width="40px" height="40px"><br><span>TypeScript</span> | <img src="./image/git-color.svg" width="40px" height="40px"><br><span>GIT</span> | <img src="./image/figma.svg" width="40px" height="40px"><br><span>Figma</span> |
@@ -18,11 +18,6 @@
 
 
 > Code control
-
-| <img src="./image/prettier-color.svg" width="40px" height="40px"><br><span>Prettier</span> | <img src="./image/stylelint-color.svg" width="40px" height="40px"><br><span>Stylelint</span> | <img src="./image/eslint-color.svg" width="40px" height="40px"><br><span>Eslint</span> |
-| --- | --- | --- |
-| <img src="./image/commitlint-color.svg" width="40px" height="40px"><br><span>Commitlint</span> |
-| --- | 
 
 <table width='100%'>
   <tr>
