@@ -22,13 +22,13 @@
 
 <table width='100%'>
   <tr>
-     <td align="center">
+     <td align="center" width="110" height="90">
         <a href="#Stack">
           <img src="./image/prettier-color.svg" width="40px" height="40px" alt="Prettier" />
         </a>
         <br>Prettier
     </td>
-     <td align="center">
+     <td align="center" width="110" height="90">
         <a href="#Stack">
           <img src="./image/stylelint-color.svg" width="40px" height="40px" alt="Stylelint" />
         </a>
