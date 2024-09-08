@@ -20,8 +20,44 @@
 > Code control
 
 | <img src="./image/prettier-color.svg" width="40px" height="40px"><br><span>Prettier</span> | <img src="./image/stylelint-color.svg" width="40px" height="40px"><br><span>Stylelint</span> | <img src="./image/eslint-color.svg" width="40px" height="40px"><br><span>Eslint</span> |
-| <img src="./image/commitlint-color.svg" width="40px" height="40px"><br><span>Commitlint</span> |
 | --- | --- | --- |
+| <img src="./image/commitlint-color.svg" width="40px" height="40px"><br><span>Commitlint</span> |
+| --- | 
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+        <a href="#Stack">
+          <img src="./image/prettier-color.svg" width="40px" height="40px" alt="Prettier" />
+        </a>
+        <br>Prettier
+    </td>
+     <td align="center" width="110" height="90">
+        <a href="#Stack">
+          <img src="./image/stylelint-color.svg" width="40px" height="40px" alt="Stylelint" />
+        </a>
+        <br>Stylelint
+    </td>
+     <td align="center" width="110" height="90">
+        <a href="#Stack">
+          <img src="./image/eslint-color.svg" width="40px" height="40px" alt="Eslint" />
+        </a>
+        <br>Eslint
+    </td>
+  </tr> 
+  <tr>
+   <td align="center" width="110" height="90">
+      <a href="#Stack">
+        <img src="./image/commitlint-color.svg" width="40px" height="40px" alt="Commitlint" />
+      </a>
+      <br>Commitlint
+    </td>
+  </tr> 
+</table>
+
+
+
+
 
 > Frontend
 
