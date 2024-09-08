@@ -3,13 +3,13 @@
 
 # 👋 Hello there! I'm NIkita Galkin
 - 🌱 I’m currently learning: React Hook Form | React Query | Firebase | Express.js
-- 🔭 I’m currently working on: TypeScript | React | React Query | Tailwind 
+- 🔭 I’m currently working on: TypeScript | React | Effector | Tailwind 
 
 ## ⭐ Stack 
 > Base
 
-| <img src="./image/html5-color.svg" width="40px" height="40px"><br><span>HTML</span> | <img src="./image/css3-color.svg" width="40px" height="40px"><br><span>CSS</span> | <img src="./image/yarn-color.svg" width="40px" height="40px"><br><span>yarn</span> | <img src="./image/npm-color.svg" width="40px" height="40px"><br><span>npm</span> | <img src="./image/javascript-color.svg" width="40px" height="40px"><br><span>JavaScript</span> | <img src="./image/typescript-color.svg" width="40px" height="40px"><br><span>TypeScript</span> | <img src="./image/git-color.svg" width="40px" height="40px"><br><span>GIT</span> | <img src="./image/figma.svg" width="40px" height="40px"><br><span>Figma</span> |
-| --- | --- | --- | --- | --- | --- | --- | --- | 
+| <img src="./image/html5-color.svg" width="40px" height="40px"><br><span>HTML</span> | <img src="./image/css3-color.svg" width="40px" height="40px"><br><span>CSS</span> | <img src="./image/pnpm-color.svg" width="40px" height="40px"><br><span>pnpm</span> | <img src="./image/yarn-color.svg" width="40px" height="40px"><br><span>yarn</span> | <img src="./image/npm-color.svg" width="40px" height="40px"><br><span>npm</span> | <img src="./image/javascript-color.svg" width="40px" height="40px"><br><span>JavaScript</span> | <img src="./image/typescript-color.svg" width="40px" height="40px"><br><span>TypeScript</span> | <img src="./image/git-color.svg" width="40px" height="40px"><br><span>GIT</span> | <img src="./image/figma.svg" width="40px" height="40px"><br><span>Figma</span> |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 
 
 > Сode control
@@ -25,3 +25,31 @@
 > Backend
 
 | <img src="./image/firebase-color.svg" width="40px" height="40px"><br><span>Firebase</span> |
+| --- |
+
+<style>
+    .heatMap {
+        width: 70%;
+        text-align: center;
+    }
+    .heatMap th {
+        background: grey;
+        word-wrap: break-word;
+        text-align: center;
+    }
+    .heatMap tr:nth-child(1) { background: red; }
+    .heatMap tr:nth-child(2) { background: orange; }
+    .heatMap tr:nth-child(3) { background: green; }
+</style>
+
+<div class="heatMap">
+
+| Everything | in this table | is Centered | and the table will only take up 70% of the screen width | 
+| -- | -- | -- | -- |
+| This | is | a | Red Row |
+| This | is | an | Orange Row |
+| This | is | a | Green Row |
+
+</div>
+
+
