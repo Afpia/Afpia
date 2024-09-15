@@ -22,19 +22,19 @@
 
 <table width='100%'>
   <tr>
-     <td align="center">
+     <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/prettier-color.svg" width="40px" height="40px" alt="Prettier" />
         </a>
         <br>Prettier
     </td>
-     <td align="center">
+     <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/stylelint-color.svg" width="40px" height="40px" alt="Stylelint" />
         </a>
         <br>Stylelint
     </td>
-     <td align="center">
+     <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/eslint-color.svg" width="40px" height="40px" alt="Eslint" />
         </a>
@@ -42,7 +42,7 @@
     </td>
   </tr> 
   <tr>
-   <td align="center">
+   <td align="center" width="100" height="80">
       <a href="#Stack">
         <img src="./image/commitlint-color.svg" width="40px" height="40px" alt="Commitlint" />
       </a>
