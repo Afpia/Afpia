@@ -14,9 +14,9 @@
 
 > Testing 
 
-<table>
+<table width='100%'>
   <tr>
-    <td width="100" height="80">
+    <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/storybook-color.svg" width="40px" height="40px" alt="Storybook" />
         </a>
@@ -75,37 +75,37 @@
         </a>
         <br>Sass
     </td>
-    <td align="center">
+    <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/tailwindcss-color.svg" width="40px" height="40px" alt="Tailwind" />
         </a>
         <br>Tailwind
     </td>
-    <td align="center">
+    <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/redux-color.svg" width="40px" height="40px" alt="Redux" />
         </a>
         <br>Redux
     </td>
-    <td align="center">
+    <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/bootstrap-color.svg" width="40px" height="40px" alt="Bootstrap" />
         </a>
         <br>Bootstrap
     </td>
-    <td align="center">
+    <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/webpack-color.svg" width="40px" height="40px" alt="Webpack" />
         </a>
         <br>Webpack
     </td>
-    <td align="center">
+    <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/vite-color.svg" width="40px" height="40px" alt="Vite" />
         </a>
         <br>Vite
     </td>
-    <td align="center">
+    <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/effector-color.svg" width="40px" height="40px" alt="Effector" />
         </a>
@@ -113,7 +113,7 @@
     </td>
   </tr> 
   <tr>
-   <td align="center">
+   <td align="center" width="100" height="80">
       <a href="#Stack">
         <img src="./image/nextdotjs-color.svg" width="40px" height="40px" alt="Next" />
       </a>
@@ -124,9 +124,9 @@
 
 > Backend
 
-<table>
+<table width='100%'>
   <tr>
-    <td width="100" height="80">
+    <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/firebase-color.svg" width="40px" height="40px" alt="Firebase" />
         </a>
