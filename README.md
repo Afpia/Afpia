@@ -51,14 +51,68 @@
   </tr> 
 </table>
 
-
-
-
-
 > Frontend
 
-| <img src="./image/react-color.svg" width="40px" height="40px"><br><span>React</span> | <img src="./image/sass-color.svg" width="40px" height="40px"><br><span>Sass</span> | <img src="./image/tailwindcss-color.svg" width="40px" height="40px"><br><span>Tailwind</span> | <img src="./image/redux-color.svg" width="40px" height="40px"><br><span>Redux</span> | <img src="./image/bootstrap-color.svg" width="40px" height="40px"><br><span>Bootstrap</span> | <img src="./image/webpack-color.svg" width="40px" height="40px"><br><span>Webpack</span> | <img src="./image/vite-color.svg" width="40px" height="40px"><br><span>Vite</span> | <img src="./image/effector-color.svg" width="40px" height="40px"><br><span>Effector</span> |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+<table>
+ <tr>
+    <td align="center">
+        <a href="#Stack">
+          <img src="./image/react-color.svg" width="40px" height="40px" alt="React" />
+        </a>
+        <br>React
+    </td>
+    <td align="center">
+        <a href="#Stack">
+          <img src="./image/sass-color.svg" width="40px" height="40px" alt="Sass" />
+        </a>
+        <br>Sass
+    </td>
+    <td align="center">
+        <a href="#Stack">
+          <img src="./image/tailwindcss-color.svg" width="40px" height="40px" alt="Tailwind" />
+        </a>
+        <br>Tailwind
+    </td>
+    <td align="center">
+        <a href="#Stack">
+          <img src="./image/redux-color.svg" width="40px" height="40px" alt="Redux" />
+        </a>
+        <br>Redux
+    </td>
+    <td align="center">
+        <a href="#Stack">
+          <img src="./image/bootstrap-color.svg" width="40px" height="40px" alt="Bootstrap" />
+        </a>
+        <br>Bootstrap
+    </td>
+    <td align="center">
+        <a href="#Stack">
+          <img src="./image/webpack-color.svg" width="40px" height="40px" alt="Webpack" />
+        </a>
+        <br>Webpack
+    </td>
+    <td align="center">
+        <a href="#Stack">
+          <img src="./image/vite-color.svg" width="40px" height="40px" alt="Vite" />
+        </a>
+        <br>Vite
+    </td>
+    <td align="center">
+        <a href="#Stack">
+          <img src="./image/effector-color.svg" width="40px" height="40px" alt="Effector" />
+        </a>
+        <br>Effector
+    </td>
+  </tr> 
+  <tr>
+   <td align="center">
+      <a href="#Stack">
+        <img src="./image/nextdotjs-color.svg" width="40px" height="40px" alt="Next" />
+      </a>
+      <br>Next
+    </td>
+  </tr> 
+</table>
 
 > Backend
 
