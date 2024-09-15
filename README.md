@@ -14,8 +14,16 @@
 
 > Testing 
 
-| <img src="./image/storybook-color.svg" width="40px" height="40px"><br><span>Storybook</span> |
-| --- |
+<table>
+  <tr>
+    <td width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/storybook-color.svg" width="40px" height="40px" alt="Storybook" />
+        </a>
+        <br>Storybook
+    </td>
+  </tr>
+</table>
 
 
 > Code control
@@ -55,13 +63,13 @@
 
 <table>
  <tr>
-    <td align="center">
+    <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/react-color.svg" width="40px" height="40px" alt="React" />
         </a>
         <br>React
     </td>
-    <td align="center">
+    <td align="center" width="100" height="80">
         <a href="#Stack">
           <img src="./image/sass-color.svg" width="40px" height="40px" alt="Sass" />
         </a>
@@ -116,7 +124,14 @@
 
 > Backend
 
-| <img src="./image/firebase-color.svg" width="40px" height="40px"><br><span>Firebase</span> |
-| --- |
-
+<table>
+  <tr>
+    <td width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/firebase-color.svg" width="40px" height="40px" alt="Firebase" />
+        </a>
+        <br>Firebase
+    </td>
+  </tr>
+</table>
 
