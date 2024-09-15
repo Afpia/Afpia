@@ -105,12 +105,6 @@
         </a>
         <br>Vite
     </td>
-    <td align="center" width="100" height="80">
-        <a href="#Stack">
-          <img src="./image/effector-color.svg" width="40px" height="40px" alt="Effector" />
-        </a>
-        <br>Effector
-    </td>
   </tr> 
   <tr>
    <td align="center" width="100" height="80">
@@ -118,6 +112,12 @@
         <img src="./image/nextdotjs-color.svg" width="40px" height="40px" alt="Next" />
       </a>
       <br>Next
+    </td>
+    <td align="center" width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/effector-color.svg" width="40px" height="40px" alt="Effector" />
+        </a>
+        <br>Effector
     </td>
   </tr> 
 </table>
