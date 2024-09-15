@@ -9,8 +9,65 @@
 
 > Base
 
-|  <a href="#Stack"><img src="./image/html5-color.svg" width="40px" height="40px"></a><br><span>HTML</span> | <img src="./image/css3-color.svg" width="40px" height="40px"><br><span>CSS</span> | <img src="./image/pnpm-color.svg" width="40px" height="40px"><br><span>pnpm</span> | <img src="./image/yarn-color.svg" width="40px" height="40px"><br><span>yarn</span> | <img src="./image/npm-color.svg" width="40px" height="40px"><br><span>npm</span> | <img src="./image/javascript-color.svg" width="40px" height="40px"><br><span>JavaScript</span> | <img src="./image/typescript-color.svg" width="40px" height="40px"><br><span>TypeScript</span> | <img src="./image/git-color.svg" width="40px" height="40px"><br><span>GIT</span> | <img src="./image/figma.svg" width="40px" height="40px"><br><span>Figma</span> |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+<table width='100%'>
+  <tr>
+    <td align="center" width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/html5-color.svg" width="40px" height="40px" alt="HTML" />
+        </a>
+        <br>HTML
+    </td>
+    <td align="center" width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/css3-color.svg" width="40px" height="40px" alt="CSS" />
+        </a>
+        <br>CSS
+    </td>
+    <td align="center" width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/pnpm-color.svg" width="40px" height="40px" alt="pnpm" />
+        </a>
+        <br>pnpm
+    </td>
+    <td align="center" width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/yarn-color.svg" width="40px" height="40px" alt="yarn" />
+        </a>
+        <br>yarn
+    </td>
+    <td align="center" width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/npm-color.svg" width="40px" height="40px" alt="npm" />
+        </a>
+        <br>npm
+    </td>
+    <td align="center" width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/javascript-color.svg" width="40px" height="40px" alt="JavaScript" />
+        </a>
+        <br>JavaScript
+    </td>
+    <td align="center" width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/typescript-color.svg" width="40px" height="40px" alt="TypeScript" />
+        </a>
+        <br>TypeScript
+    </td>
+    <td align="center" width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/git-color.svg" width="40px" height="40px" alt="Git" />
+        </a>
+        <br>git
+    </td>
+    <td align="center" width="100" height="80">
+        <a href="#Stack">
+          <img src="./image/figma.svg" width="40px" height="40px" alt="Figma" />
+        </a>
+        <br>Figma
+    </td>
+  </tr>
+</table>
+
 
 > Testing 
 
