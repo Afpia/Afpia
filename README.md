@@ -57,7 +57,7 @@
         <a href="#Stack">
           <img src="./image/git-color.svg" width="40px" height="40px" alt="Git" />
         </a>
-        <br>git
+        <br>Git
     </td>
     <td align="center" width="100" height="80">
         <a href="#Stack">
