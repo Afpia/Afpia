@@ -1,5 +1,7 @@
 ![Gif](https://github.com/Afpia/Afpia/blob/main/space.gif)
-
+<a href="#Stack">
+  <img src="https://github.com/Afpia/Afpia/blob/main/space.gif" alt="Space" />
+</a>
 
 # 👋 Hello there! I'm NIkita Galkin
 - 🌱 I’m currently learning: React Hook Form | React Query | Firebase | Express.js
