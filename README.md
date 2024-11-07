@@ -2,7 +2,7 @@
   <img src="https://github.com/Afpia/Afpia/blob/main/space.gif" alt="Space" />
 </a>
 
-# 👋 Hello there! I'm NIkita Galkin
+# 👋 Hello there! I'm Nikita Galkin
 - 🌱 I’m currently learning: React Hook Form | React Query | Firebase | Express.js
 - 🔭 I’m currently working on: TypeScript | React | Effector | Tailwind 
 
