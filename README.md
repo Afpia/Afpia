@@ -3,7 +3,7 @@
 </a>
 
 # 👋 Hello there! I'm Nikita Galkin
-- 🌱 I’m currently learning: Next | React Query | tRPC
+- 🌱 I’m currently learning: Next | React Query | tRPC | storybook
 - 🔭 I’m currently working on: TypeScript | React | Effector | Tailwind 
 
 <h2 id="Stack" align="left">⭐ Stack</h2> 
