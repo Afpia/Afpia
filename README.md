@@ -71,18 +71,9 @@
   </tr>
 </table>
 
-<a href="#Stack"><img src="./image/react-color.svg" width="40px" alt="React" /></a> React
-<a href="#Stack"><img src="./image/sass-color.svg" width="40px" alt="Sass" /></a> Sass
-<a href="#Stack"><img src="./image/tailwindcss-color.svg" width="40px" alt="Tailwind" /></a> Tailwind
-<a href="#Stack"><img src="./image/redux-color.svg" width="40px" alt="Redux" /></a> Redux
-<a href="#Stack"><img src="./image/bootstrap-color.svg" width="40px" alt="Bootstrap" /></a> Bootstrap
-<a href="#Stack"><img src="./image/webpack-color.svg" width="40px" alt="Webpack" /></a> Webpack
-<a href="#Stack"><img src="./image/vite-color.svg" width="40px" alt="Vite" /></a> Vite
-<a href="#Stack"><img src="./image/nextdotjs-color.svg" width="40px" alt="Next" /></a> Next
-<a href="#Stack"><img src="./image/effector-color.svg" width="40px" alt="Effector" /></a> Effector
 
-<table width="100%" border="1" cellspacing="0" cellpadding="10">
-  <tr><td><strong>Base</strong></td></tr>
+
+<table width="100%" border="1" cellspacing="10" cellpadding="10">
   <tr><td align="center">
     <a href="#Stack"><img src="./image/html5-color.svg" width="40px" alt="HTML"/></a><br>HTML<br><br>
     <a href="#Stack"><img src="./image/css3-color.svg" width="40px" alt="CSS"/></a><br>CSS<br><br>
@@ -93,6 +84,12 @@
     <a href="#Stack"><img src="./image/typescript-color.svg" width="40px" alt="TypeScript"/></a><br>TypeScript<br><br>
     <a href="#Stack"><img src="./image/git-color.svg" width="40px" alt="Git"/></a><br>Git<br><br>
     <a href="#Stack"><img src="./image/figma.svg" width="40px" alt="Figma"/></a><br>Figma
+  </td></tr>
+  <tr><td align="center">
+    <a href="#Stack"><img src="./image/prettier-color.svg" width="40px" alt="Prettier"/></a><br>Prettier<br><br>
+    <a href="#Stack"><img src="./image/stylelint-color.svg" width="40px" alt="Stylelint"/></a><br>Stylelint<br><br>
+    <a href="#Stack"><img src="./image/eslint-color.svg" width="40px" alt="Eslint"/></a><br>Eslint<br><br>
+    <a href="#Stack"><img src="./image/commitlint-color.svg" width="40px" alt="Commitlint"/></a><br>Commitlint
   </td></tr>
 </table>
 
