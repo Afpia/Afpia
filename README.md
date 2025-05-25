@@ -71,28 +71,6 @@
   </tr>
 </table>
 
-
-
-<table width="100%" border="1" cellspacing="10" cellpadding="10">
-  <tr><td align="center">
-    <a href="#Stack"><img src="./image/html5-color.svg" width="40px" alt="HTML"/></a><br>HTML<br><br>
-    <a href="#Stack"><img src="./image/css3-color.svg" width="40px" alt="CSS"/></a><br>CSS<br><br>
-    <a href="#Stack"><img src="./image/pnpm-color.svg" width="40px" alt="pnpm"/></a><br>pnpm<br><br>
-    <a href="#Stack"><img src="./image/yarn-color.svg" width="40px" alt="yarn"/></a><br>yarn<br><br>
-    <a href="#Stack"><img src="./image/npm-color.svg" width="40px" alt="npm"/></a><br>npm<br><br>
-    <a href="#Stack"><img src="./image/javascript-color.svg" width="40px" alt="JavaScript"/></a><br>JavaScript<br><br>
-    <a href="#Stack"><img src="./image/typescript-color.svg" width="40px" alt="TypeScript"/></a><br>TypeScript<br><br>
-    <a href="#Stack"><img src="./image/git-color.svg" width="40px" alt="Git"/></a><br>Git<br><br>
-    <a href="#Stack"><img src="./image/figma.svg" width="40px" alt="Figma"/></a><br>Figma
-  </td>
-  <td align="center">
-    <a href="#Stack"><img src="./image/prettier-color.svg" width="40px" alt="Prettier"/></a><br>Prettier<br><br>
-    <a href="#Stack"><img src="./image/stylelint-color.svg" width="40px" alt="Stylelint"/></a><br>Stylelint<br><br>
-    <a href="#Stack"><img src="./image/eslint-color.svg" width="40px" alt="Eslint"/></a><br>Eslint<br><br>
-    <a href="#Stack"><img src="./image/commitlint-color.svg" width="40px" alt="Commitlint"/></a><br>Commitlint
-  </td></tr>
-</table>
-
 > Testing 
 
 <table width='100%'>
