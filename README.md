@@ -3,8 +3,8 @@
 </a>
 
 # 👋 Hello there! I'm Nikita Galkin
-- 🌱 I’m currently learning: Next | React Query | tRPC | Storybook
-- 🔭 I’m currently working on: TypeScript | React | Effector | Tailwind 
+- 🌱 I’m currently learning: GraphQL | React Query | tRPC | Vitest
+- 🔭 I’m currently working on: TypeScript | React | Next | Tailwind 
 
 <h2 id="Stack" align="left">⭐ Stack</h2> 
 
@@ -84,8 +84,8 @@
     <a href="#Stack"><img src="./image/typescript-color.svg" width="40px" alt="TypeScript"/></a><br>TypeScript<br><br>
     <a href="#Stack"><img src="./image/git-color.svg" width="40px" alt="Git"/></a><br>Git<br><br>
     <a href="#Stack"><img src="./image/figma.svg" width="40px" alt="Figma"/></a><br>Figma
-  </td></tr>
-  <tr><td align="center">
+  </td>
+  <td align="center">
     <a href="#Stack"><img src="./image/prettier-color.svg" width="40px" alt="Prettier"/></a><br>Prettier<br><br>
     <a href="#Stack"><img src="./image/stylelint-color.svg" width="40px" alt="Stylelint"/></a><br>Stylelint<br><br>
     <a href="#Stack"><img src="./image/eslint-color.svg" width="40px" alt="Eslint"/></a><br>Eslint<br><br>
